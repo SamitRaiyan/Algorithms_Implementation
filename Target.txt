@@ -1,0 +1,132 @@
+Target is to solve 100 algorithms from super easy to hard.
+
+Here’s a list of **100 algorithms** ordered from **super easy** to **hard**, covering **array, string, math, graph, DP, and advanced algorithms**. If you implement these and keep them on your GitHub, it will showcase your problem-solving skills effectively.  
+
+---
+
+### **🔰 Super Easy (1-20)**
+1. **Find Maximum & Minimum in an Array**  
+2. **Check if a Number is Even or Odd**  
+3. **Sum of N Natural Numbers**  
+4. **Reverse an Array**  
+5. **Find the Largest of Three Numbers**  
+6. **Palindrome Check (String & Number)**  
+7. **Count Frequency of Elements in an Array**  
+8. **Find Factorial of a Number**  
+9. **Check for Prime Number**  
+10. **Print Fibonacci Series (Iterative & Recursive)**  
+11. **Find GCD & LCM (Euclidean Algorithm)**  
+12. **Reverse a String**  
+13. **Find Second Largest Number in an Array**  
+14. **Check if Two Strings are Anagrams**  
+15. **Remove Duplicates from an Array**  
+16. **Merge Two Sorted Arrays**  
+17. **Find Common Elements in Two Arrays**  
+18. **Find Intersection & Union of Two Arrays**  
+19. **Binary Search (Iterative & Recursive)**  
+20. **Bubble Sort**  
+
+---
+
+### **🟢 Easy (21-40)**
+21. **Selection Sort**  
+22. **Insertion Sort**  
+23. **Check if an Array is Sorted**  
+24. **Move Zeroes to End of Array**  
+25. **Find Missing Number in an Array (1 to N)**  
+26. **Find Single Non-Repeating Element in an Array (XOR Approach)**  
+27. **Two Sum Problem (Hashing Approach)**  
+28. **Check if a Number is Power of 2**  
+29. **Find First and Last Occurrence of an Element in a Sorted Array**  
+30. **Check if a String has Unique Characters**  
+31. **Find Longest Common Prefix**  
+32. **Implement Stack using Array**  
+33. **Implement Queue using Array**  
+34. **Find Majority Element (Moore’s Voting Algorithm)**  
+35. **Find Intersection Point of Two Linked Lists**  
+36. **Reverse a Linked List (Iterative & Recursive)**  
+37. **Detect Loop in a Linked List (Floyd’s Cycle Detection)**  
+38. **Find Middle of a Linked List**  
+39. **Find Nth Node from End of a Linked List**  
+40. **Sort an Array of 0s, 1s, and 2s (Dutch National Flag Algorithm)**  
+
+---
+
+### **🟡 Medium (41-70)**
+41. **Quick Sort**  
+42. **Merge Sort**  
+43. **Heap Sort**  
+44. **Kadane’s Algorithm (Maximum Subarray Sum)**  
+45. **Next Permutation**  
+46. **Find First Missing Positive Integer**  
+47. **Implement Min Heap & Max Heap**  
+48. **Find Kth Largest Element in an Array**  
+49. **Rotate an Array (Using Reverse Method)**  
+50. **Find Subarray with Given Sum (Sliding Window)**  
+51. **Find Longest Substring Without Repeating Characters**  
+52. **Reverse Words in a String**  
+53. **Find Longest Palindromic Substring (Expand Around Center)**  
+54. **Check if Two Strings are Rotations of Each Other**  
+55. **Backtracking: Generate All Subsets (Power Set)**  
+56. **Backtracking: Generate All Permutations of a String/Array**  
+57. **Backtracking: N-Queens Problem**  
+58. **Backtracking: Sudoku Solver**  
+59. **Breadth-First Search (BFS) for Graphs**  
+60. **Depth-First Search (DFS) for Graphs**  
+61. **Detect Cycle in a Graph (BFS & DFS)**  
+62. **Find Shortest Path in an Unweighted Graph (BFS)**  
+63. **Dijkstra’s Algorithm (Shortest Path in Weighted Graph)**  
+64. **Topological Sorting (Kahn’s Algorithm)**  
+65. **Floyd-Warshall Algorithm (All Pairs Shortest Path)**  
+66. **Bellman-Ford Algorithm (Single Source Shortest Path)**  
+67. **Find Bridges in a Graph (Tarjan’s Algorithm)**  
+68. **Find Articulation Points in a Graph**  
+69. **Check if a Graph is Bipartite (BFS & DFS)**  
+70. **Disjoint Set Union (Union-Find with Path Compression)**  
+
+---
+
+### **🔴 Hard (71-100)**
+71. **Kruskal’s Algorithm (Minimum Spanning Tree)**  
+72. **Prim’s Algorithm (Minimum Spanning Tree)**  
+73. **Trapping Rain Water Problem**  
+74. **Sliding Window Maximum (Deque Method)**  
+75. **Find Median in a Stream (Two Heaps Approach)**  
+76. **Longest Increasing Subsequence (DP + Binary Search)**  
+77. **Edit Distance (Levenshtein Distance, DP Approach)**  
+78. **Wildcard Matching (DP Approach)**  
+79. **Regular Expression Matching (DP Approach)**  
+80. **Rod Cutting Problem (DP Approach)**  
+81. **Knapsack Problem (0/1 Knapsack, DP)**  
+82. **Longest Common Subsequence (DP Approach)**  
+83. **Matrix Chain Multiplication (DP Approach)**  
+84. **Word Break Problem (DP + Trie)**  
+85. **Largest Rectangle in Histogram (Stack Approach)**  
+86. **Maximum Rectangle in Binary Matrix (DP + Stack)**  
+87. **K-th Smallest Element in a BST**  
+88. **Lowest Common Ancestor in a BST**  
+89. **Lowest Common Ancestor in a Binary Tree**  
+90. **Serialize and Deserialize Binary Tree**  
+91. **Find Diameter of a Binary Tree**  
+92. **Check if a Binary Tree is Balanced**  
+93. **Check if a Binary Tree is Symmetric**  
+94. **Find All Anagrams of a Pattern in a String (Sliding Window)**  
+95. **Count Inversions in an Array (Merge Sort Approach)**  
+96. **Find the Smallest Window in a String Containing All Characters of Another String**  
+97. **Find the Maximum XOR of Two Numbers in an Array (Trie)**  
+98. **Bitwise AND of Numbers Range**  
+99. **Implement LFU (Least Frequently Used) Cache**  
+100. **Implement LRU (Least Recently Used) Cache**  
+
+---
+
+### **Next Steps for Your GitHub Repository** 📌
+- Create separate folders for each category (Sorting, Searching, Graphs, DP, etc.).  
+- Add **README.md** files explaining the logic behind each algorithm.  
+- Write clean, **well-commented code** in C++, Python, or Java.  
+- Use **test cases** to show correctness.  
+- Try implementing **optimized** versions of each algorithm.  
+
+If you complete these **100 algorithms** and keep them structured on GitHub, your profile will stand out for **internships & coding interviews**! 🚀💻  
+
+Do you want a **GitHub repo structure suggestion** for organizing these efficiently? 😊
