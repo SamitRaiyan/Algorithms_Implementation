@@ -3,7 +3,6 @@
 def find_max_min(arr):
     max_val = min_val = arr[0]
 
-    # Iterate through the array
     for num in arr:
         if num > max_val:
             max_val = num
@@ -12,7 +11,6 @@ def find_max_min(arr):
 
     return max_val, min_val
 
-# Taking dynamic input
 arr = list(map(int, input("Enter the array elements separated by space: ").split()))
 
 max_value, min_value = find_max_min(arr)
