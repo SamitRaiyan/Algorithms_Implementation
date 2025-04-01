@@ -1,4 +1,4 @@
-# Algorithm-1: Find Maximum & Minimum in an Array
+# 1. Find Maximum & Minimum in an Array
 
 def find_max_min(arr):
     max_val = min_val = arr[0]
